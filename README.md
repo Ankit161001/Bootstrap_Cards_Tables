@@ -1,5 +1,6 @@
-# Bootstrap_Practice
+# Bootstrap_Cards_Tables
 The html file uses Bootstrap CSS for image placements using tables.
+It was a practice html file for Bootstrap cards and tables.
 
 The uploaded html file gives the following output.
 
